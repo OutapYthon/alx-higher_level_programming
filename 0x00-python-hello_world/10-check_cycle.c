@@ -23,4 +23,4 @@ int check_cycle(listint_t *list)
         }
 
         return (0);
-}
+sh: 1: q: not found
